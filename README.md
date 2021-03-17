@@ -6,7 +6,7 @@
 
 - Data Science & Machine Learning
 - Club president of ✨SOLUX✨ 26th, programming club of SMWU
-- ✨KUSITMS✨(Korean University Students IT, Management Society) 23rf executive team
+- ✨KUSITMS✨(Korean University Students IT, Management Society) 23rd executive team
 
 
 
