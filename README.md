@@ -4,6 +4,8 @@
 
 ## Nayeon Keum
 
+- Majoring IT Engineering in SWU 19th class, double majoring Statistics.
+
 - Data Science & Machine Learning
 - Club president of ✨SOLUX✨ 26th, programming club of SMWU
 - ✨KUSITMS✨(Korean University Students IT, Management Society) 23rd executive team
