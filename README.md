@@ -6,7 +6,8 @@
 
 - Majoring in IT Engineering at SMWU 19th, double majoring in Statistics.
 
-- Data Science & Machine Learning
+- Data Science & Machine Learning & Android(Java)
+- Executive team of ✨SOLUX✨ 25th, programming club of SMWU
 - Club president of ✨SOLUX✨ 26th, programming club of SMWU
 - ✨KUSITMS✨(Korean University Students IT, Management Society) 23rd executive team
 - ✨KUSITMS✨(Korean University Students IT, Management Society) 24th vice president
