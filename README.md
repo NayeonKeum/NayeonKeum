@@ -4,7 +4,7 @@
 
 ## Nayeon Keum
 
-- Majoring in IT Engineering at SMWU 19th, double majoring in Statistics.
+- IT Engineering / Statistics at SMWU 19th.
 
 - Data Science & Machine Learning & Android(Java)
 - Executive team of ✨SOLUX✨ 25th, programming club of SMWU
