@@ -11,6 +11,7 @@
 - Club president of ✨SOLUX✨ 26th, programming club of SMWU
 - ✨KUSITMS✨(Korean University Students IT, Management Society) 23rd executive team
 - ✨KUSITMS✨(Korean University Students IT, Management Society) 24th vice president
+- GDSC(Google Developer Student Clubs) Sookmyung Member
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NayeonKeum&show_icons=true&theme=tokyonight)
 
