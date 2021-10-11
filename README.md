@@ -7,11 +7,13 @@
 - IT Engineering / Statistics at SMWU 19th.
 
 - Data Science & Android(Java)
-- Executive team of ✨SOLUX✨ 25th, programming club of SMWU
-- Club president of ✨SOLUX✨ 26th, programming club of SMWU
-- ✨KUSITMS✨(Korean University Students IT, Management Society) 23rd executive team
-- ✨KUSITMS✨(Korean University Students IT, Management Society) 24th vice president
-- GDSC(Google Developer Student Clubs) Sookmyung Member
+- Python, C, AI lecturer of CodingPlus Academy (2019.2 ~ 2021.2)
+- Executive team of ✨SOLUX✨ 25th, programming club of SMWU (2020.6 ~ 2021.2)
+- Club president of ✨SOLUX✨ 26th, programming club of SMWU (2021.2 ~ )
+- ✨KUSITMS✨(Korean University Students IT, Management Society) 23rd executive team (2021.1 ~ 2021.6)
+- ✨KUSITMS✨(Korean University Students IT, Management Society) 24th vice president (2021.6 ~ )
+- KAIST 2021 Summer MadCamp(2021.6 ~ 2021.7)
+- GDSC(Google Developer Student Clubs) Sookmyung Member (2021.8 ~ )
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NayeonKeum&show_icons=true&theme=tokyonight)
 
