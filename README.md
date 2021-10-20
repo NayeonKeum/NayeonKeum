@@ -10,10 +10,10 @@
 - Python, C, AI lecturer of CodingPlus Academy (2019.2 ~ 2021.2)
 - Executive team of ✨[SOLUX](https://solux.tistory.com/)✨ 25th, programming club of SMWU (2020.6 ~ 2021.2)
 - Club president of ✨[SOLUX](https://solux.tistory.com/)✨ 26th, programming club of SMWU (2021.2 ~ )
-- ✨[KUSITMS](https://cafe.naver.com/kusitms) ✨(Korean University Students IT, Management Society) 23rd executive team (2021.1 ~ 2021.6)
-- ✨[KUSITMS](https://cafe.naver.com/kusitms)✨(Korean University Students IT, Management Society) 24th vice president (2021.6 ~ )
-- KAIST 2021 Summer [MadCamp](https://madcamp.io/)(2021.6 ~ 2021.7)
-- [GDSC(Google Developer Student Clubs) Sookmyung](https://gdsc.community.dev/sookmyung-womens-university/) Member (2021.8 ~ )
+- 💚[KUSITMS](https://cafe.naver.com/kusitms)💙(Korean University Students IT, Management Society) 23rd executive team (2021.1 ~ 2021.6)
+- 💚[KUSITMS](https://cafe.naver.com/kusitms)💙(Korean University Students IT, Management Society) 24th vice president (2021.6 ~ )
+- KAIST 2021 Summer 🏅[MadCamp](https://madcamp.io/)🏅(2021.6 ~ 2021.7)
+- ⭐[GDSC Sookmyung](https://gdsc.community.dev/sookmyung-womens-university/)⭐(Google Developer Student Clubs) Member (2021.8 ~ )
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NayeonKeum&show_icons=true&theme=tokyonight)
 
