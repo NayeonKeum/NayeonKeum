@@ -20,6 +20,6 @@
 
 - 📫 How to reach me: ...
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rmaskdus0208@gmail.com)](mailto:rmaskdus0208@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white:rmaskdus0208@gmail.com)](mailto:https://www.instagram.com/nayeongeum/)
+
 
 
