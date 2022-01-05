@@ -6,7 +6,7 @@
 ## Nayeon Keum
 - IT Engineering / Statistics at SMWU 19th.
 
-- Data Science & Android(Java)
+- Data Engineering & Cloud Computing(AWS)
 - Python, C, AI lecturer of CodingPlus Academy (2019.2 ~ 2021.2)
 - Executive team of ✨[SOLUX](https://solux.tistory.com/)✨ 25th, programming club of SMWU (2020.6 ~ 2021.2)
 - Club president of ✨[SOLUX](https://solux.tistory.com/)✨ 26th, programming club of SMWU (2021.2 ~ 2022.2)
