@@ -9,7 +9,7 @@
 
 <h4 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 <p align="center"> Tech stats I use mainly
-</br>
+</br></br>
 
 <p align="center">
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp 
@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/></a> &nbsp 
 </p>
 
-
+</br></br>
 
 - Data Engineering & Cloud Computing(AWS)
 - Python, C, AI lecturer of CodingPlus Academy (2019.2 ~ 2021.2)
