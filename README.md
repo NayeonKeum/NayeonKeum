@@ -8,7 +8,7 @@
 
 
 <h4 align="center"><b>🛠 Tech Stack 🛠</b></h3>
-<p align="center"> Tech stats I use mainly
+<p align="center"> Tech stats I mainly use
 </br></br>
 
 <p align="center">
