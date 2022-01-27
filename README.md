@@ -41,7 +41,7 @@
 - 💚[KUSITMS](https://cafe.naver.com/kusitms)💙(Korean University Students IT, Management Society) 24th vice president (2021.6 ~ 2021.12)
 - KAIST 2021 Summer 🏅[MadCamp](https://madcamp.io/)🏅(2021.6 ~ 2021.7)
 - ⭐[GDSC](https://gdsc.community.dev/sookmyung-womens-university/)⭐(Google Developer Student Clubs) Sookmyung Member (2021.8 ~ )
-- 🎖BOAZ🎖 18th, Data Engineering Part Member (2022.1 ~ )
+- 🎖[BOAZ](https://github.com/BOAZ-bigdata)🎖 18th, Data Engineering Part Member (2022.1 ~ )
 
 <!-- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NayeonKeum&show_icons=true&theme=tokyonight)
