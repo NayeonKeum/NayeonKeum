@@ -43,9 +43,11 @@
 - ⭐[GDSC](https://gdsc.community.dev/sookmyung-womens-university/)⭐(Google Developer Student Clubs) Sookmyung Member (2021.8 ~ )
 - 🎖[BOAZ](https://github.com/BOAZ-bigdata)🎖 18th, Data Engineering Part Member (2022.1 ~ )
 
-<!-- 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NayeonKeum&show_icons=true&theme=tokyonight)
- -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NayeonKeum&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
