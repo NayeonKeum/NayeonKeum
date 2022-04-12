@@ -41,7 +41,7 @@
 - 💚[KUSITMS](https://cafe.naver.com/kusitms)💙(Korean University Students IT, Management Society) 24th vice president (2021.6 ~ 2021.12)
 - KAIST 2021 Summer 🏅[MadCamp](https://madcamp.io/)🏅(2021.6 ~ 2021.7)
 - ⭐[GDSC](https://gdsc.community.dev/sookmyung-womens-university/)⭐(Google Developer Student Clubs) Sookmyung Member (2021.8 ~ )
-- 🎖[BOAZ](https://github.com/BOAZ-bigdata)🎖 18th, Data Engineering Part Member, management team of Data Research Team (2022.1 ~ )
+- 🎖[BOAZ](https://ko-kr.facebook.com/BOAZbigdata/)🎖 18th, Data Engineering Part Member, management team of Data Research Team (2022.1 ~ )
 
 
 </br></br>
