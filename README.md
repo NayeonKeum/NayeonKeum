@@ -2,11 +2,40 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNayeonKeum&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<br>
 
 ## Nayeon Keum
 
+<br>
 
-<h4 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+<br>
+
+▶️  I major `IT Engineering` / `Statistics` at SMWU 19th.
+
+▶️  I like to `learn and create💡` new things.
+
+▶️  I am a `process-oriented` person and love to `make plans🧭`.
+
+▶️ I am currently interested in <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> 
+<img alt="Kubernetes" src ="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
+
+▶️  I am `currently doing an internship👩‍💻` building a Kubernetes cluster in Istio service mesh architecture.
+
+▶️  I have been in `5 clubs👯‍♂️` so far, for a total of `7 years` (but I'm still a Junior).
+
+▶️  I am a `cat😻` person, and also a `night🌛` persion.
+
+▶️  I spent each 2 years in my childhood in `LA, USA🇺🇸` and `London, UK🇬🇧`. Currently living in `Seoul, South Korea🇰🇷`.
+
+▶️  I like to `develop my skills with friends👣` I have met, and haven't met yet.
+
+
+<br>
+
+<br>
+
+
+<h4 align="center"> 🛠 Tech Stack 🛠</h4>
 <p align="center"> Tech stats I mainly use</p>
 </br>
 
@@ -31,7 +60,7 @@
 
 <br>
 
-<img alt="Python" src ="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> 
+<img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> 
 <img alt="Kubernetes" src ="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
 
 <br>
@@ -42,10 +71,12 @@
 
 </p>
 
-</br></br>
+<br><br>
 
-- IT Engineering / Statistics at SMWU 19th.
-- Data Engineering & Cloud Computing(AWS)
+<!-- ### Breif activities
+
+<br>
+
 - Python, C, AI lecturer of CodingPlus Academy (2019.2 ~ 2021.2)
 - Executive team of ✨[SOLUX](https://solux.tistory.com/)✨ 25th, programming club of SMWU (2020.6 ~ 2021.2)
 - Club president of ✨[SOLUX](https://solux.tistory.com/)✨ 26th, programming club of SMWU (2021.2 ~ 2022.2)
@@ -56,17 +87,11 @@
 - 🎖[BOAZ](https://ko-kr.facebook.com/BOAZbigdata/)🎖 18th, Data Engineering Part Member, management team of Data Research Team (2022.1 ~ 2022.6)
 - 🎖[BOAZ](https://ko-kr.facebook.com/BOAZbigdata/)🎖 18th, Data Engineering Part Lead (2022.6 ~ 2023.1)
 
+ -->
 
-</br></br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NayeonKeum&show_icons=true&theme=tokyonight)
-
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NayeonKeum&show_icons=true&theme=tokyonight)
+ -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NayeonKeum&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
-
-</br>
-
 
 
 
@@ -75,9 +100,18 @@
 <p align="center">
 <a href="mailto:rmaskdus0208@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rmaskdus0208@gmail.com"/></a>
 <a href="https://instagram.com/nayeongold"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/%EB%82%98%EC%97%B0-%EA%B8%88-7aa490204/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+
 </p>
 </br>
+
+<h4 align="center"><b>FMI</b></h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/%EB%82%98%EC%97%B0-%EA%B8%88-7aa490204/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+
+</p>
+</br>
+
 
 
 
