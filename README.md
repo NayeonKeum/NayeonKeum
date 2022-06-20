@@ -23,7 +23,7 @@
 <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 <br>
 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
@@ -75,6 +75,7 @@
 <p align="center">
 <a href="mailto:rmaskdus0208@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rmaskdus0208@gmail.com"/></a>
 <a href="https://instagram.com/nayeongold"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/%EB%82%98%EC%97%B0-%EA%B8%88-7aa490204/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 </p>
 </br>
 
