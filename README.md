@@ -19,7 +19,7 @@
 ▶️ I am currently interested in <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> 
 <img alt="Kubernetes" src ="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
 
-▶️  I am `doing an internship👩‍💻` building a Kubernetes cluster in Istio service mesh architecture.
+▶️  I've `done an internship👩‍💻` building a Kubernetes cluster in Istio service mesh architecture.
 
 ▶️  I have been in `5 clubs👯‍♂️` so far, for a total of `7 years` (but I'm still a Junior).
 
