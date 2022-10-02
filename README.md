@@ -21,7 +21,7 @@
 
 ▶️  I've `done an internship👩‍💻` building a Kubernetes cluster in Istio service mesh architecture.
 
-▶️  I have been in `5 clubs👯‍♂️` so far, for a total of `7 years` (but I'm still a Junior).
+▶️  I have been in `5 clubs👯‍♂️` so far, for a total of `7 years`.
 
 ▶️  I am a `cat😻` person, and also a `night🌛` person.
 
