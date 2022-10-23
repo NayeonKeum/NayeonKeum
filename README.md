@@ -17,7 +17,7 @@
 ▶️  I am a `process-oriented` person and love to `make plans🧭`.
 
 ▶️ I am currently interested in <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> 
-<img alt="Kubernetes" src ="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
+<img alt="Kubernetes" src ="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>, and overall data engineering.
 
 ▶️  I've `done an internship👩‍💻` about building a Kubernetes cluster and connecting third-party SSOs to keycloak, on Istio service mesh architecture.
 
