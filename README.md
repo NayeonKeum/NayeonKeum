@@ -110,11 +110,13 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/%EB%82%98%EC%97%B0-%EA%B8%88-7aa490204/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+  
 
 </p>
+
+
 </br>
 
-
-
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=NayeonKeum)](https://github.com/anuraghazra/github-readme-stats)
 
 
