@@ -19,13 +19,13 @@
 ▶️ I am currently interested in <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> 
 <img alt="Kubernetes" src ="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>, and overall data engineering.
 
-▶️  I've `done an internship👩‍💻` about building a Kubernetes cluster and connecting third-party SSOs to keycloak, on Istio service mesh architecture.
+▶️  I've `done an internship👩‍💻` at [Dudaji](https://www.dudaji.com/), building a Kubernetes cluster and connecting third-party SSOs to keycloak on Istio service mesh architecture.
 
 ▶️  Currently I'm an `Undergraduate Research Assistant` in [Bigdata Storage Systems Lab](http://bslab.sookmyung.ac.kr/index.html) of SMWU
 
 ▶️  I have been in `5 clubs👯‍♂️` so far, for a total of `7 years`.
 
-▶️  I am a `cat😻` person, and also a `night🌛` person.
+▶️  I am a `cat😻` person, and also a `night🌛` owl.
 
 ▶️  I spent each 2 years in my childhood in `LA, USA🇺🇸` and `London, UK🇬🇧`. Currently living in `Seoul, South Korea🇰🇷`.
 
@@ -33,8 +33,34 @@
 
 
 <br>
+<!-- 
+## Breif activities
 
 <br>
+
+▶️  Python, C++, AI lecturer of CodingPlus Academy (2019.2 ~ 2021.2)
+
+▶️  ✨[SOLUX](https://solux.tistory.com/)✨ 25th, Executive team (2020.2 ~ 2021.2)
+
+▶️  ✨[SOLUX](https://solux.tistory.com/)✨ 26th, Club president (2021.2 ~ 2022.2)
+
+▶️  💚[KUSITMS](https://cafe.naver.com/kusitms)💙(Korean University Students IT, Management Society) 23rd management team / Developer (2021.1 ~ 2021.6)
+
+▶️  💚[KUSITMS](https://cafe.naver.com/kusitms)💙(Korean University Students IT, Management Society) 24th vice president / Developer (2021.6 ~ 2021.12)
+
+▶️  KAIST 2021 Summer 🏕️[MadCamp](https://madcamp.io/)🏕️(2021.6 ~ 2021.7)
+
+▶️  ⭐[GDSC](https://gdsc.community.dev/sookmyung-womens-university/)⭐(Google Developer Student Clubs) Sookmyung Member (2021.8 ~ 2022.7)
+
+▶️  🐘[BOAZ](https://www.bigdataboaz.com/)🐘 18th, Data Engineering Part Member, management team of Data Research Team (2022.1 ~ 2022.6)
+
+▶️  👩🏻‍💻[Dudaji](https://www.dudaji.com/)👩🏻‍💻, internship (2022.3 ~ 2022.6)
+
+▶️  🐘[BOAZ](https://www.bigdataboaz.com/)🐘 18th, Data Engineering Part Lead (2022.6 ~ 2023.1)
+
+▶️  💾[Bigdata Storage Systems Lab](http://bslab.sookmyung.ac.kr/index.html)💾, Undergraduate Research Assistant (2022.10 ~ 2023.2)
+
+<br> -->
 
 
 <h4 align="center"> 🛠 Tech Stack 🛠</h4>
@@ -71,26 +97,7 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/>
 
-</p>
-
 <br><br>
-
-<!-- ### Breif activities
-
-<br>
-
-- Python, C, AI lecturer of CodingPlus Academy (2019.2 ~ 2021.2)
-- Executive team of ✨[SOLUX](https://solux.tistory.com/)✨ 25th, programming club of SMWU (2020.6 ~ 2021.2)
-- Club president of ✨[SOLUX](https://solux.tistory.com/)✨ 26th, programming club of SMWU (2021.2 ~ 2022.2)
-- 💚[KUSITMS](https://cafe.naver.com/kusitms)💙(Korean University Students IT, Management Society) 23rd management team (2021.1 ~ 2021.6)
-- 💚[KUSITMS](https://cafe.naver.com/kusitms)💙(Korean University Students IT, Management Society) 24th vice president (2021.6 ~ 2021.12)
-- KAIST 2021 Summer 🏅[MadCamp](https://madcamp.io/)🏅(2021.6 ~ 2021.7)
-- ⭐[GDSC](https://gdsc.community.dev/sookmyung-womens-university/)⭐(Google Developer Student Clubs) Sookmyung Member (2021.8 ~ )
-- 🎖[BOAZ](https://ko-kr.facebook.com/BOAZbigdata/)🎖 18th, Data Engineering Part Member, management team of Data Research Team (2022.1 ~ 2022.6)
-- 🎖[BOAZ](https://ko-kr.facebook.com/BOAZbigdata/)🎖 18th, Data Engineering Part Lead (2022.6 ~ 2023.1)
-
- -->
-
 
 <h4 align="center"><b>📞📫 How to reach me</b></h3>
 
