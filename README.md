@@ -33,34 +33,6 @@
 
 
 <br>
-<!-- 
-## Breif activities
-
-<br>
-
-▶️  Python, C++, AI lecturer of CodingPlus Academy (2019.2 ~ 2021.2)
-
-▶️  ✨[SOLUX](https://solux.tistory.com/)✨ 25th, Executive team (2020.2 ~ 2021.2)
-
-▶️  ✨[SOLUX](https://solux.tistory.com/)✨ 26th, Club president (2021.2 ~ 2022.2)
-
-▶️  💚[KUSITMS](https://cafe.naver.com/kusitms)💙(Korean University Students IT, Management Society) 23rd management team / Developer (2021.1 ~ 2021.6)
-
-▶️  💚[KUSITMS](https://cafe.naver.com/kusitms)💙(Korean University Students IT, Management Society) 24th vice president / Developer (2021.6 ~ 2021.12)
-
-▶️  KAIST 2021 Summer 🏕️[MadCamp](https://madcamp.io/)🏕️(2021.6 ~ 2021.7)
-
-▶️  ⭐[GDSC](https://gdsc.community.dev/sookmyung-womens-university/)⭐(Google Developer Student Clubs) Sookmyung Member (2021.8 ~ 2022.7)
-
-▶️  🐘[BOAZ](https://www.bigdataboaz.com/)🐘 18th, Data Engineering Part Member, management team of Data Research Team (2022.1 ~ 2022.6)
-
-▶️  👩🏻‍💻[Dudaji](https://www.dudaji.com/)👩🏻‍💻, internship (2022.3 ~ 2022.6)
-
-▶️  🐘[BOAZ](https://www.bigdataboaz.com/)🐘 18th, Data Engineering Part Lead (2022.6 ~ 2023.1)
-
-▶️  💾[Bigdata Storage Systems Lab](http://bslab.sookmyung.ac.kr/index.html)💾, Undergraduate Research Assistant (2022.10 ~ 2023.2)
-
-<br> -->
 
 
 <h4 align="center"> 🛠 Tech Stack 🛠</h4>
@@ -118,6 +90,35 @@
 
 
 </br>
+
+<!-- 
+## Breif activities
+
+<br>
+
+▶️  Python, C++, AI lecturer of CodingPlus Academy (2019.2 ~ 2021.2)
+
+▶️  ✨[SOLUX](https://solux.tistory.com/)✨ 25th, Executive team (2020.2 ~ 2021.2)
+
+▶️  ✨[SOLUX](https://solux.tistory.com/)✨ 26th, Club president (2021.2 ~ 2022.2)
+
+▶️  💚[KUSITMS](https://cafe.naver.com/kusitms)💙(Korean University Students IT, Management Society) 23rd management team / Developer (2021.1 ~ 2021.6)
+
+▶️  💚[KUSITMS](https://cafe.naver.com/kusitms)💙(Korean University Students IT, Management Society) 24th vice president / Developer (2021.6 ~ 2021.12)
+
+▶️  KAIST 2021 Summer 🏕️[MadCamp](https://madcamp.io/)🏕️(2021.6 ~ 2021.7)
+
+▶️  ⭐[GDSC](https://gdsc.community.dev/sookmyung-womens-university/)⭐(Google Developer Student Clubs) Sookmyung Member (2021.8 ~ 2022.7)
+
+▶️  🐘[BOAZ](https://www.bigdataboaz.com/)🐘 18th, Data Engineering Part Member, management team of Data Research Team (2022.1 ~ 2022.6)
+
+▶️  👩🏻‍💻[Dudaji](https://www.dudaji.com/)👩🏻‍💻, internship (2022.3 ~ 2022.6)
+
+▶️  🐘[BOAZ](https://www.bigdataboaz.com/)🐘 18th, Data Engineering Part Lead (2022.6 ~ 2023.1)
+
+▶️  💾[Bigdata Storage Systems Lab](http://bslab.sookmyung.ac.kr/index.html)💾, Undergraduate Research Assistant (2022.10 ~ 2023.2)
+
+<br> -->
 
 <!-- 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=NayeonKeum&show_icons=true&theme=tokyonight)
