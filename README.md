@@ -19,9 +19,9 @@
 ▶️ I am currently interested in <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> 
 <img alt="Kubernetes" src ="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>, and overall data engineering.
 
-▶️  I've `done an internship👩‍💻` at [Dudaji](https://www.dudaji.com/), building a Kubernetes cluster and connecting third-party SSOs to keycloak on Istio service mesh architecture.
+▶️  I've `done an internship👩‍💻` at [Dudaji](https://www.dudaji.com/), building a Kubernetes cluster and connecting third-party SSOs to keycloak on Istio service mesh architecture(2022.3 - 2022.6).
 
-▶️  Currently I'm an `Undergraduate Research Assistant` in [Bigdata Storage Systems Lab](http://bslab.sookmyung.ac.kr/index.html) of SMWU
+▶️  Also an `Undergraduate Research Assistant` in [Bigdata Storage Systems Lab](http://bslab.sookmyung.ac.kr/index.html) of SMWU(2022.10 - 2023.2).
 
 ▶️  I have been in `5 clubs👯‍♂️` so far, for a total of `7 years`.
 
