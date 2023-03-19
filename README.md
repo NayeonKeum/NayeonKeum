@@ -40,14 +40,9 @@
 
 </br>
 
-<p align="center">
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9f4dea3c-4f3b-4cf9-9001-04b38481167a" data-share-badge-host="https://www.credly.com"></div>
+<a href="https://www.credly.com/badges/9f4dea3c-4f3b-4cf9-9001-04b38481167a/public_url"><img width=300 src="https://user-images.githubusercontent.com/68985625/226168191-7996031e-54bd-4c1c-a09a-3ab065184916.png"/></a><a href="https://www.credly.com/badges/7727746b-4570-4651-b57d-d4398f8799bf/public_url"><img width=300 src="https://user-images.githubusercontent.com/68985625/226168194-15db988a-1258-440a-ab1c-ee09f004a689.png"/></a>
 
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7727746b-4570-4651-b57d-d4398f8799bf" data-share-badge-host="https://www.credly.com"></div>
-
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 </p>
 
