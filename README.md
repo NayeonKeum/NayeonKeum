@@ -21,7 +21,7 @@
 
 ▶️  I've `done an internship👩‍💻` at [Dudaji](https://www.dudaji.com/), building a Kubernetes cluster and connecting third-party SSOs to keycloak on Istio service mesh architecture(2022.3 - 2022.6).
 
-▶️  Also an `Undergraduate Research Assistant` in [Bigdata Storage Systems Lab](http://bslab.sookmyung.ac.kr/index.html) of SMWU(2022.10 - 2023.2).
+▶️  Also was an `Undergraduate Research Assistant` in [Bigdata Storage Systems Lab](http://bslab.sookmyung.ac.kr/index.html) of SMWU(2022.10 - 2023.2).
 
 ▶️  I have been in `5 clubs👯‍♂️` so far, for a total of `7 years`.
 
@@ -34,6 +34,25 @@
 
 <br>
 
+
+
+<h4 align="center"> 🎖️ Certificates 🎖️ </h4>
+
+</br>
+
+<p align="center">
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9f4dea3c-4f3b-4cf9-9001-04b38481167a" data-share-badge-host="https://www.credly.com"></div>
+
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7727746b-4570-4651-b57d-d4398f8799bf" data-share-badge-host="https://www.credly.com"></div>
+
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+</p>
+
+
+<br>
 
 <h4 align="center"> 🛠 Tech Stack 🛠</h4>
 <p align="center"> Tech stats I mainly use</p>
