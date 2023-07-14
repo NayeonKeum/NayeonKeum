@@ -5,6 +5,7 @@
 ## Nayeon Keum
 
 ### Introduce Myself 💁🏻‍♀️
+
 <br>
 
 ▶️  Major `IT Engineering` / `Statistics` at SMWU 19th.
@@ -26,6 +27,9 @@
 <br>
 
 ### Opensource-related 🌏
+
+<br>
+
 ▶️  I believe in `the power of opensource`, which is fully open to everyone for collective intelligence.
 
 ▶️  Currently participating as a member and contributing to the Korean localization of [Kubernetes](https://github.com/kubernetes) and [Ubuntu](https://launchpad.net/~nayeon-keum).
@@ -35,6 +39,8 @@
 <br>
 
 ### Work I've done 👩🏻‍💻
+
+<br>
 
 ▶️  I've `done an internship👩‍💻` at [Dudaji](https://www.dudaji.com/), building a Kubernetes cluster and connecting third-party SSOs to keycloak on Istio service mesh architecture(2022.3 - 2022.6).
 
