@@ -2,39 +2,47 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNayeonKeum&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<br>
-
 ## Nayeon Keum
 
+### Introduce Myself 💁🏻‍♀️
 <br>
 
+▶️  Major `IT Engineering` / `Statistics` at SMWU 19th.
+
+▶️  Like to `learn and create💡` new things, and `solve real-world issues💡`.
+
+▶️  Also like `developing` and `communities`, `develop my skills with friends👣` I have met, and haven't met yet.
+
+  -  Maybe thats the reason why I have been in `5 clubs👯‍♂️`, and two times more communities so far.
+
+▶️  Spent each 2 years in my childhood in `LA, USA🇺🇸` and `London, UK🇬🇧`. Currently living in `Seoul, South Korea🇰🇷`.
+
+▶️  Interested in `DevOps`, `Cloud Computing`, `MLOps`, `Serverless architecture`, `Elasticsearch`, `Golang`, and etc.
+
+▶️  Also I'm the `Cloud Captains` recipients of this year's  `Linux Foundation Training Scholarship Program 2023`
+
+▶️  A `cat😻` person.
+
 <br>
 
-▶️  I major `IT Engineering` / `Statistics` at SMWU 19th.
+### Opensource-related 🌏
+▶️  I believe in `the power of opensource`, which is fully open to everyone for collective intelligence.
 
-▶️  I like to `learn and create💡` new things.
+▶️  Currently participating as a member and contributing to the Korean localization of [Kubernetes](https://github.com/kubernetes) and [Ubuntu](https://launchpad.net/~nayeon-keum).
 
-▶️  I am a `process-oriented` person and love to `make plans🧭`.
+▶️  Member of Korea's Opensource Contribution Academy in 2022(K8s), 2023(Terraform plugin)
 
-▶️ I am currently interested in <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> 
-<img alt="Kubernetes" src ="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>, and overall data engineering.
+<br>
+
+### Work I've done 👩🏻‍💻
 
 ▶️  I've `done an internship👩‍💻` at [Dudaji](https://www.dudaji.com/), building a Kubernetes cluster and connecting third-party SSOs to keycloak on Istio service mesh architecture(2022.3 - 2022.6).
 
 ▶️  Also was an `Undergraduate Research Assistant` in [Bigdata Storage Systems Lab](http://bslab.sookmyung.ac.kr/index.html) of SMWU(2022.10 - 2023.2).
 
-▶️  I have been in `5 clubs👯‍♂️` so far, for a total of `7 years`.
-
-▶️  I am a `cat😻` person, and also a `night🌛` owl.
-
-▶️  I spent each 2 years in my childhood in `LA, USA🇺🇸` and `London, UK🇬🇧`. Currently living in `Seoul, South Korea🇰🇷`.
-
-▶️  I like to `develop my skills with friends👣` I have met, and haven't met yet.
-
+▶️  Currently I'm the DevOps team intern in [Lablup](https://github.com/lablup)(2023.07 - ).
 
 <br>
-
-
 
 <h4 align="center"> 🎖️ Certificates 🎖️ </h4>
 
@@ -54,7 +62,18 @@
 </br>
 
 <p align="center">
-  
+
+<img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> 
+<img alt="Kubernetes" src ="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
+<img alt="Google Cloud" src ="https://img.shields.io/badge/Google Cloud-4285F4?&style=flat-square&logo=Google Cloud&logoColor=white"/>
+
+<br>
+
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -69,15 +88,6 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 <br>
 
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
-<img alt="Google Cloud" src ="https://img.shields.io/badge/Google Cloud-4285F4?&style=flat-square&logo=Google Cloud&logoColor=white"/>
-
-<br>
-
-<img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> 
-<img alt="Kubernetes" src ="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
-
-<br>
 
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> 
@@ -134,9 +144,6 @@
 
 <br> -->
 
-<!-- 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=NayeonKeum&show_icons=true&theme=tokyonight)
+<!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=NayeonKeum&show_icons=true&theme=tokyonight) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NayeonKeum&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
- -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NayeonKeum&card_width=500&layout=compact&hide=Jupyter%20Notebook,HTML,ASP.NET,Objective-C,XSLT,SCSS,CSS,HLSL,C%23&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
