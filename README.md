@@ -27,7 +27,7 @@
 
 <br>
 
-### Opensource-related 🌏
+### Opensource Related 🌏
 
 <br>
 
@@ -43,11 +43,11 @@
 
 <br>
 
-▶️  I've `done an internship👩‍💻` at [Dudaji](https://www.dudaji.com/), building a Kubernetes cluster and connecting third-party SSOs to keycloak on Istio service mesh architecture(2022.3 - 2022.6).
+▶️  I was the `S/W team's DevOps intern` at [Dudaji](https://www.dudaji.com/), building a Kubernetes cluster and connecting third-party SSOs to keycloak on Istio service mesh architecture(2022.3 - 2022.6).
 
 ▶️  Also was an `Undergraduate Research Assistant` in [Bigdata Storage Systems Lab](http://bslab.sookmyung.ac.kr/index.html) of SMWU(2022.10 - 2023.2).
 
-▶️  Currently I'm the DevOps team intern in [Lablup](https://github.com/lablup)(2023.07 - ).
+▶️  Currently I'm the `DevOps team intern` in [Lablup](https://github.com/lablup)(2023.07 - ).
 
 <br>
 
