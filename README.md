@@ -47,7 +47,7 @@
 
 ▶️  Also was an `Undergraduate Research Assistant` in [Bigdata Storage Systems Lab](http://bslab.sookmyung.ac.kr/index.html) of SMWU(2022.10 - 2023.2).
 
-▶️  Currently I'm the `DevOps team intern` in [Lablup](https://github.com/lablup)(2023.07 - ).
+▶️  Plus the `DevOps team intern` in [Lablup](https://github.com/lablup)(2023.07 - 2023.08).
 
 <br>
 
