@@ -12,7 +12,7 @@
 
 ▶️  Like to `learn and create💡` new things, and `solve real-world issues💡`.
 
-▶️  Also like `developing` and `communities`, `develop my skills with friends👣` I have met, and haven't met yet.
+▶️  Also like `developing` and `communities`.
 
   -  Maybe thats the reason why I have been in `5 clubs👯‍♂️`, and two times more communities so far.
   -  [BOAZ](https://www.bigdataboaz.com/), [GDSC](https://gdsc.community.dev/sookmyung-womens-university/), [KUSITMS](https://cafe.naver.com/kusitms), [MadCamp](https://madcamp.io/), [SOLUX](https://solux.tistory.com/), and etc(check my organization list).
@@ -22,6 +22,8 @@
 ▶️  Interested in `DevOps`, `Cloud Computing`, `MLOps`, `Serverless architecture`, `Elasticsearch`, `Golang`, and etc.
 
 ▶️  Also I'm the `Cloud Captains` recipients of this year's  `Linux Foundation Training Scholarship Program 2023`
+
+▶️  Also participated in [Kubecon + CloudNativeCon NA 2023](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) as a Dan Kohn scholarship recipient of `CNCF`
 
 ▶️  A `cat😻` person.
 
