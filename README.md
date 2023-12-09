@@ -149,6 +149,11 @@
 
 </br>
 
-<!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=NayeonKeum&show_icons=true&theme=tokyonight) -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NayeonKeum&card_width=500&layout=compact&hide=Jupyter%20Notebook,HTML,ASP.NET,Objective-C,XSLT,SCSS,CSS,HLSL,C%23&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayeonKeum&card_width=400&layout=compact&hide=HTML,ASP.NET,Objective-C,XSLT,SCSS,CSS,HLSL,C%23&langs_count=6" />
+</a> &nbsp;
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NayeonKeum&show_icons=true&theme=tokyonight" />
+</a>
+</p>
