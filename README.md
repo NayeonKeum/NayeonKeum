@@ -81,7 +81,7 @@
 <h4 align="center"> 🎖️ Certificates 🎖️ </h4>
 
 </br>
-
+<p align="center">
 <a href="https://www.credly.com/badges/9f4dea3c-4f3b-4cf9-9001-04b38481167a/public_url"><img width=200 src="https://user-images.githubusercontent.com/68985625/226168191-7996031e-54bd-4c1c-a09a-3ab065184916.png"/></a><a href="https://www.credly.com/badges/7727746b-4570-4651-b57d-d4398f8799bf/public_url"><img width=200 src="https://user-images.githubusercontent.com/68985625/226168194-15db988a-1258-440a-ab1c-ee09f004a689.png"/></a>
 
 
@@ -151,9 +151,9 @@
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayeonKeum&card_width=400&layout=compact&hide=HTML,ASP.NET,Objective-C,XSLT,SCSS,CSS,HLSL,C%23&langs_count=6" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayeonKeum&card_width=400&layout=compact&hide=HTML,ASP.NET,Objective-C,XSLT,SCSS,CSS,HLSL,C%23&langs_count=6" />
 </a> &nbsp;
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NayeonKeum&show_icons=true&theme=tokyonight" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=NayeonKeum&show_icons=true&theme=tokyonight" />
 </a>
 </p>
