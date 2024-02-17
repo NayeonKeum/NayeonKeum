@@ -33,7 +33,7 @@
 
 ▶️  I believe in `the power of opensource`, which is fully open to everyone for collective intelligence.
 
-▶️  Currently participating as a member and contributing to the Korean localization of [Kubernetes](https://github.com/kubernetes) and [Ubuntu](https://launchpad.net/~nayeon-keum).
+▶️  Currently participating as a member and contributing to the Korean localization of [Ubuntu](https://launchpad.net/~nayeon-keum), and was a contributor of [Kubernetes](https://github.com/kubernetes).
 
 ▶️  Member of Korea's Opensource Contribution Academy in 2022(K8s), 2023(Terraform plugin)
 
