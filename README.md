@@ -17,7 +17,7 @@
   -  Maybe thats the reason why I have been in `5 clubs👯‍♂️`, and two times more communities so far.
   -  [BOAZ](https://www.bigdataboaz.com/), [GDSC](https://gdsc.community.dev/sookmyung-womens-university/), [KUSITMS](https://cafe.naver.com/kusitms), [MadCamp](https://madcamp.io/), [SOLUX](https://solux.tistory.com/), and etc(check my organization list).
 
-▶️  Interested in `DevOps`, `Cloud Computing`, `MLOps`, `Serverless architecture`, `Elasticsearch`, `Golang`, and etc.
+▶️  Interested in `DevOps`, `Platform Engineering`, `Cloud Computing`, `MLOps`, and etc.
 
 ▶️  Also I'm the `Cloud Captains` recipients of this year's  `Linux Foundation Training Scholarship Program 2023`
 
@@ -33,7 +33,7 @@
 
 ▶️  I believe in `the power of opensource`, which is fully open to everyone for collective intelligence.
 
-▶️  Currently participating as a member and contributing to the Korean localization of [Ubuntu](https://launchpad.net/~nayeon-keum), and was a contributor of [Kubernetes](https://github.com/kubernetes).
+▶️  Currently participating as a organizer and contributing to the Korean localization of [Ubuntu](https://launchpad.net/~nayeon-keum), and was a contributor of [Kubernetes](https://github.com/kubernetes).
 
 ▶️  Member of Korea's Opensource Contribution Academy in 2022(K8s), 2023(Terraform plugin)
 
@@ -48,6 +48,25 @@
 ▶️  Also was an `Undergraduate Research Assistant` in [Bigdata Storage Systems Lab](http://bslab.sookmyung.ac.kr/index.html) of SMWU(2022.10 - 2023.2).
 
 ▶️  Plus the `DevOps team intern` in [Lablup](https://github.com/lablup)(2023.07 - 2023.08).
+
+<br>
+
+### 📄 Papers 📄
+
+<br>
+
+
+▶️  Implementing a Container-Based Environment Integrated Platform for Submitting Programming Assignments using Kubernetes
+
+-	Paper Published by Journal of Digital Contents Society(JDCS) of South Korea(2024.1, Vol. 25, No. 1, pp. 165-176)
+
+-	http://doi.org/10.9728/dcs.2024.25.1.165
+
+▶️  Real-Time Indexing Performance Optimization of Search Platform Based on Big Data Cluster
+
+- Paper Published by Journal of Platform Technology(JPT) of South Korea(2023.12, VOL. 11, NO. 6)
+
+-	http://doi.org/10.23023/JPT.2023.11.6.089 
 
 <br>
 
@@ -89,24 +108,22 @@
 
 
 <br>
-
+<!--
 <h4 align="center"> 🛠 Tech Stack 🛠</h4>
 <p align="center"> Tech stats I mainly use</p>
 </br>
-
 <p align="center">
-
 <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> 
 <img alt="Kubernetes" src ="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
-
 <br>
-
+-->
+<!--
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
 <img alt="Google Cloud" src ="https://img.shields.io/badge/Google Cloud-4285F4?&style=flat-square&logo=Google Cloud&logoColor=white"/>
+<br/>
+-->
 
-<br>
-
-
+<!--
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -127,8 +144,11 @@
 <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/>
 
 <br><br>
+-->
 
-<h4 align="center"><b>📞📫 How to reach me</b></h3>
+
+
+<h4 align="center"><b>📞📫Contacts</b></h3>
 
 <p align="center">
 <a href="mailto:rmaskdus0208@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rmaskdus0208@gmail.com"/></a>
