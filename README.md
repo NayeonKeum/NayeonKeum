@@ -10,9 +10,9 @@
 
 ▶️  Major `IT Engineering` / `Statistics` at SMWU 19th.
 
-▶️  Like to `learn and create💡` new things, and `solve real-world issues💡`.
+▶️  I'd like to introduce myself as a `problem analyst💡`, who goes beyond problem solving.
 
-▶️  Also like `developing` and `communities`.
+▶️  Also like `solving problems`, `developing` and `communities`.
 
   -  Maybe thats the reason why I have been in `5 clubs👯‍♂️`, and two times more communities so far.
   -  [BOAZ](https://www.bigdataboaz.com/), [GDSC](https://gdsc.community.dev/sookmyung-womens-university/), [KUSITMS](https://cafe.naver.com/kusitms), [MadCamp](https://madcamp.io/), [SOLUX](https://solux.tistory.com/), and etc(check my organization list).
