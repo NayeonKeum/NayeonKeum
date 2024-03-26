@@ -5,7 +5,8 @@
 ## Nayeon Keum
 
 ### Introduce Myself 💁🏻‍♀️
-[Resume](https://github.com/NayeonKeum/NayeonKeum/files/14760564/Nayeon_Keum_-_Cloud_Support_Engineer_3.17.main.pdf)
+
+<!-- [Resume](https://github.com/NayeonKeum/NayeonKeum/files/14760564/Nayeon_Keum_-_Cloud_Support_Engineer_3.17.main.pdf)-->
 
 
 <br>
