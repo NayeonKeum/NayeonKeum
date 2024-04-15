@@ -163,7 +163,7 @@
 <h4 align="center"><b>FMI</b></h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/%EB%82%98%EC%97%B0-%EA%B8%88-7aa490204/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nayeonkeum"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
   
 
 </p>
