@@ -13,16 +13,11 @@
 
 ▶️  Major `IT Engineering` / `Statistics` at SMWU 19th.
 
-▶️  I'd like to introduce myself as a `problem analyst💡`, who goes beyond problem solving.
+▶️  I'd like to introduce myself as a `problem analyst💡`, who goes beyond problem-solving.
 
 ▶️  Also like `software developing` and `communities`.
 
-  -  Maybe thats the reason why I have been in `5 clubs👯‍♂️`, and two times more communities so far.
-  -  [BOAZ](https://www.bigdataboaz.com/), [GDSC](https://gdsc.community.dev/sookmyung-womens-university/), [KUSITMS](https://cafe.naver.com/kusitms), [MadCamp](https://madcamp.io/), [SOLUX](https://solux.tistory.com/), and etc(check my organization list).
-
-▶️  Interested in `DevOps`, `Platform Engineering`, `Cloud Computing`, `MLOps`, and etc.
-
-▶️  Also I'm the `Cloud Captains` recipients of this year's  `Linux Foundation Training Scholarship Program 2023`
+▶️  Interested in `DevOps`, `Platform Engineering`, `Cloud Computing`, `MLOps`, etc.
 
 ▶️  Also participated in [Kubecon + CloudNativeCon NA 2023](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) as a Dan Kohn scholarship recipient of `CNCF`
 
@@ -34,17 +29,17 @@
 
 <br>
 
-▶️  I believe in `the power of opensource`, which is fully open to everyone for collective intelligence.
+▶️  I believe in `the power of open source`, which is open to everyone for collective intelligence.
 
-▶️  Currently participating as a organizer and contributing to the Korean localization of [Ubuntu](https://launchpad.net/~nayeon-keum), and was a contributor of [Kubernetes](https://github.com/kubernetes).
+▶️  Currently participating as an organizer and contributing to the Korean localization of [Ubuntu](https://launchpad.net/~nayeon-keum), and was a member of [Kubernetes](https://github.com/kubernetes).
 
-▶️  Member of Korea's Opensource Contribution Academy in 2022(K8s), 2023(Terraform plugin)
 
 <br>
 
 ### Work I've done 👩🏻‍💻
 
 <br>
+<!-- ▶️  I'm currently working for AWS Dublin, as a cloud support associate in deployment profile. -->
 
 ▶️  I was the `S/W team's DevOps intern` at [Dudaji](https://www.dudaji.com/), building a Kubernetes cluster and connecting third-party SSOs to keycloak on Istio service mesh architecture(2022.3 - 2022.6).
 
@@ -72,33 +67,6 @@
 -	http://doi.org/10.23023/JPT.2023.11.6.089 
 
 <br>
-
-<!--
-
-### Breif activities 🏐
-
-<br>
-
-▶️  Python, C++, AI lecturer of CodingPlus Academy (2019.2 ~ 2021.2)
-
-▶️  ✨[SOLUX](https://solux.tistory.com/)✨ 25th, Executive team (2020.2 ~ 2021.2)
-
-▶️  ✨[SOLUX](https://solux.tistory.com/)✨ 26th, Club president (2021.2 ~ 2022.2)
-
-▶️  💚[KUSITMS](https://cafe.naver.com/kusitms)💙(Korean University Students IT, Management Society) 23rd management team / Developer (2021.1 ~ 2021.6)
-
-▶️  💚[KUSITMS](https://cafe.naver.com/kusitms)💙(Korean University Students IT, Management Society) 24th vice president / Developer (2021.6 ~ 2021.12)
-
-▶️  KAIST 2021 Summer 🏕️[MadCamp](https://madcamp.io/)🏕️(2021.6 ~ 2021.7)
-
-▶️  ⭐[GDSC](https://gdsc.community.dev/sookmyung-womens-university/)⭐(Google Developer Student Clubs) Sookmyung Member (2021.8 ~ 2022.7)
-
-▶️  🐘[BOAZ](https://www.bigdataboaz.com/)🐘 18th, Data Engineering Part Member, management team of Data Research Team (2022.1 ~ 2022.6)
-
-▶️  🐘[BOAZ](https://www.bigdataboaz.com/)🐘 18th, Data Engineering Part Lead (2022.6 ~ 2023.1)
-
--->
-
 
 <h4 align="center"> 🎖️ Certificates 🎖️ </h4>
 
