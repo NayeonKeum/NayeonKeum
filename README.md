@@ -13,7 +13,7 @@
 
 ▶️  Major `IT Engineering` / `Statistics` at SMWU 19th.
 
-▶️  I'd like to introduce myself as a `problem analyst💡`, who goes beyond problem-solving.
+▶️  I'd like to introduce myself as a `problem analyst💡`, who thinks beyond problem-solving.
 
 ▶️  Also like `software developing` and `communities`.
 
@@ -132,7 +132,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/nayeonkeum"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
-  
+<a href="https://velog.io/@ryann3"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 </p>
 
