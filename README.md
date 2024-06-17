@@ -11,15 +11,11 @@
 
 <br>
 
-▶️  Major `IT Engineering` / `Statistics` at SMWU 19th.
-
 ▶️  I'd like to introduce myself as a `problem analyst💡`, who thinks beyond problem-solving.
 
-▶️  Also like `software developing` and `communities`.
+▶️  I like `software developing` and `communities`.
 
-▶️  Interested in `DevOps`, `Platform Engineering`, `Cloud Computing`, `MLOps`, etc.
-
-▶️  Also participated in [Kubecon + CloudNativeCon NA 2023](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) as a Dan Kohn scholarship recipient of `CNCF`
+▶️  I'm interested in `DevOps`, `Platform Engineering`, `Cloud Computing`, `MLOps`, etc.
 
 ▶️  A `cat😻` person.
 
@@ -33,19 +29,18 @@
 
 ▶️  Currently participating as an organizer and contributing to the Korean localization of [Ubuntu](https://launchpad.net/~nayeon-keum), and was a member of [Kubernetes](https://github.com/kubernetes).
 
+▶️  I've also participated in [Kubecon + CloudNativeCon NA 2023](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) as a Dan Kohn scholarship recipient of `CNCF`
+
 
 <br>
 
 ### Work I've done 👩🏻‍💻
 
 <br>
-<!-- ▶️  I'm currently working for AWS Dublin, as a cloud support associate in deployment profile. -->
 
-▶️  I was the `S/W team's DevOps intern` at [Dudaji](https://www.dudaji.com/), building a Kubernetes cluster and connecting third-party SSOs to keycloak on Istio service mesh architecture(2022.3 - 2022.6).
+▶️  I'm currently working for [Amazon Web Services](https://aws.amazon.com/), as a cloud support associate in deployment profile.
 
-▶️  Also was an `Undergraduate Research Assistant` in [Bigdata Storage Systems Lab](http://bslab.sookmyung.ac.kr/index.html) of SMWU(2022.10 - 2023.2).
-
-▶️  Plus the `DevOps team intern` in [Lablup](https://github.com/lablup)(2023.07 - 2023.08).
+▶️  I was the `S/W team's DevOps intern` at [Dudaji](https://www.dudaji.com/)(2022.3 - 2022.6), also was an `Undergraduate Research Assistant` in [Bigdata Storage Systems Lab](http://bslab.sookmyung.ac.kr/index.html) of SMWU(2022.10 - 2023.2), and a `DevOps team intern` in [Lablup](https://github.com/lablup)(2023.07 - 2023.08).
 
 <br>
 
